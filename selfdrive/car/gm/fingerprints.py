@@ -55,4 +55,6 @@ FINGERPRINTS = {
   }],
   CAR.TRAX: [{
   }],
+  CAR.TRAILBLAZER: [{
+  }], 
 }
